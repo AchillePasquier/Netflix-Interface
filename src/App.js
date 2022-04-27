@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import logoNetflix from "./images/logo-netflix.jpeg";
 import dataBase from "./movies_rnexgr.json";
