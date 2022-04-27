@@ -2,7 +2,7 @@ import "./App.css";
 import logoNetflix from "./images/logo-netflix.jpeg";
 import dataBase from "./movies_rnexgr.json";
 
-console.log(dataBase[0]["category"]);
+//console.log(dataBase[0]["category"]);
 
 function App() {
   return (
