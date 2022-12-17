@@ -40,6 +40,13 @@ h1 {
 }
 
 .carousel-movies img {
-  width: 220;
+  width: 220px;
   object-fit: cover;
+  transition: 350ms;
+}
+
+.carousel-movies img:hover {
+  cursor: pointer;
+  -webkit-filter: grayscale(100%);
+  box-shadow: 0px 0px 50px white;
 }
